@@ -52,7 +52,7 @@ Management wants to:
 SELECT COUNT(DISTINCT post_type) AS unique_post_types
 FROM gdb0120.fact_content; 
 output
-![Query 1 Output](images/query1_output.png)
+![Query 1 Output](images/query1_output.png)(https://drive.google.com/file/d/1mB9qWYRmat0yrEYz6Yk1g1HWuGEL3lGs/view?usp=sharing)
 
 
 ### 🔹 Query 2 – Highest & Lowest Impressions
