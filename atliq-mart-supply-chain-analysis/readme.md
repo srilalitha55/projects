@@ -81,7 +81,7 @@ However, the dashboard, insights, and analysis are fully based on the provided d
 ## 📸 Dashboard Preview
 
 ### Executive Service Level Overview
-![Executive Service Level Overview](./01-executive-service-level-overview-dashboard.png)
+![Executive Service Level Overview](./01-executive-service-level-overview.png)
 
 ### Customer Service Level Analysis
 ![Customer Service Level Analysis](./02-customer-service-level-analysis.png)
