@@ -129,5 +129,5 @@ Datasets used in this project are not included in this repository due to data pr
 
 ## 🙋‍♀️ Author
 
-**G R S S Sri Lalitha**  
+**G R S S SRI LALITHA**  
 Aspiring Business Analyst | Power BI | SQL | Excel | Data Analysis | Data Visualization
