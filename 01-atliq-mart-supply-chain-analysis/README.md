@@ -116,5 +116,5 @@ However, the dashboard, insights, and analysis are fully based on the provided d
 ---
 
 ## 🙋‍♀️ Author
-**G R S S Sri Lalitha**  
+**G R S S SRI LALITHA**  
 Aspiring Business Analyst | Power BI | SQL | Excel | Data Analysis | Data Visualization
