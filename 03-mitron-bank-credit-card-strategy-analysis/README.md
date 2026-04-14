@@ -131,5 +131,5 @@ However, the insights and analysis are based on the provided dataset structure.
 
 ## 🙋‍♀️ Author
 
-**G R S S Sri Lalitha**  
+**G R S S SRI LALITHA**  
 Aspiring Business Analyst | Power BI | SQL | Excel | Data Analysis | Data Visualization  
