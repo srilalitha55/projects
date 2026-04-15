@@ -9,7 +9,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ## 🚀 Projects Overview
 
-### 1️⃣ AtliQ Mart Supply Chain Analysis
+### 1️⃣ AtliQ Mart Supply Chain Analysis(https://github.com/srilalitha55/projects/tree/main/01-atliq-mart-supply-chain-analysis)
 
 - **Domain:** FMCG / Supply Chain  
 - **Objective:** Improve delivery performance and service levels  
