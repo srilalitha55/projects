@@ -61,7 +61,7 @@ GROUP BY post_type;
 
 ---
 
-## 📂 SQL Queries
+## 📂 All SQL Queries
 
 👉 [View Full SQL Queries](./01-queries/)
 
