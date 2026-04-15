@@ -42,27 +42,6 @@ The dashboard focuses on the following KPIs:
 
 ---
 
-## 📊 Dashboard Features
-- KPI overview with target comparison  
-- City-wise performance analysis  
-- Customer-wise service level breakdown  
-- Monthly trend analysis (with drill-down capability)  
-- Product-level insights (LIFR & VOFR)  
-- Conditional formatting to highlight performance gaps  
-
----
-
-## 📁 Dataset Information
-The project uses multiple datasets:
-
-- `dim_customers` – Customer details  
-- `dim_products` – Product information  
-- `dim_date` – Date hierarchy  
-- `dim_targets_orders` – Target metrics  
-- `fact_order_lines` – Order-level data  
-- `fact_orders_aggregate` – Aggregated delivery performance  
-
----
 
 ## ⚠️ Data Disclaimer
 Datasets used in this project are not included in this repository due to data privacy and usage guidelines.
@@ -72,9 +51,9 @@ However, the dashboard, insights, and analysis are fully based on the provided d
 ---
 
 ## 🛠 Tools Used
-- Power BI (Dashboard Development)  
-- Excel (Data Preparation)  
-- SQL (Data Analysis concepts)  
+- Power BI - Dashboard Development 
+- Excel - Data Preparation 
+- SQL - Data Analysis concepts 
 
 ---
 
