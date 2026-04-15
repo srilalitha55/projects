@@ -95,4 +95,4 @@ Dataset not included due to privacy and usage restrictions.
 ## 🙋‍♀️ Author
 
 G R S S SRI LALITHA  
-Aspiring Business Analyst | SQL | Excel | Power BI
+Aspiring Business Analyst | SQL | Excel | Power BI | Data Analysis | Data Visualization
