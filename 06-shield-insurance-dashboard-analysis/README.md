@@ -63,12 +63,12 @@ The dashboard is built using well-defined DAX measures, including:
 
 ---
 
-### 🔵 Shield Insurance Sales Mode Analysis 
+### 🔵 Shield Insurance - Sales Mode Analysis 
 ![Shield Insurance Sales Mode Analysis](./02-shield-insurance-sales-mode-analysis.png)
 
 ---
 
-### 🟣 Shield Insurance Age Group Analysis 
+### 🟣 Shield Insurance - Age Group Analysis 
 ![Shield Insurance Age Group Analysis](./03-shield-insurance-age-group-analysis.png)
 
 ---
