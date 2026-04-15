@@ -32,11 +32,6 @@ The influencer lacked clarity on:
 
 ---
 
-## 📊 Sample Output
-
-![Reach Analysis Output](02-outputs/output_07.png)
-
----
 
 ## 🚀 Recommendations
 
@@ -57,6 +52,12 @@ SELECT
 FROM gdb0120.fact_content
 GROUP BY post_type;
 ```
+
+---
+
+## 📊 Sample Output
+
+![Reach Analysis Output](02-outputs/output_07.png)
 
 ---
 
