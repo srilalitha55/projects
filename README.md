@@ -11,7 +11,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ## 🚀 Projects Overview
 
-### 1️⃣ AtliQ Mart Supply Chain Analysis(https://github.com/srilalitha55/projects/tree/main/01-atliq-mart-supply-chain-analysis)
+### 1️⃣ AtliQ Mart Supply Chain Analysis
+(https://github.com/srilalitha55/projects/tree/main/01-atliq-mart-supply-chain-analysis)
 
 - **Domain:** FMCG(Fast-Moving Consumer Goods)
 - **Function:** Supply Chain, Strategy  
@@ -21,7 +22,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 2️⃣ AtliQ Grands Revenue Performance Analysis(https://github.com/srilalitha55/projects/tree/main/02-atliq-grands-revenue-performance-analysis)
+### 2️⃣ AtliQ Grands Revenue Performance Analysis
+(https://github.com/srilalitha55/projects/tree/main/02-atliq-grands-revenue-performance-analysis)
 
 - **Domain:** Hospitality
 - **Function:**  Revenue, Marketing
@@ -31,7 +33,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 3️⃣ Mitron Bank Credit Card Strategy Analysis(https://github.com/srilalitha55/projects/tree/main/03-mitron-bank-credit-card-strategy-analysis)
+### 3️⃣ Mitron Bank Credit Card Strategy Analysis
+(https://github.com/srilalitha55/projects/tree/main/03-mitron-bank-credit-card-strategy-analysis)
 
 - **Domain:** Banking
 - **Function:** Strategy, Revenue 
@@ -41,7 +44,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 4️⃣ CodeX Energy Drink Consumer Behavior Analysis(https://github.com/srilalitha55/projects/tree/main/04-codex-energy-drink-consumer-behavior-analysis)
+### 4️⃣ CodeX Energy Drink Consumer Behavior Analysis
+(https://github.com/srilalitha55/projects/tree/main/04-codex-energy-drink-consumer-behavior-analysis)
 
 - **Domain:** Food & Beverages (F&B) 
 - **Function:** Marketing  
@@ -51,7 +55,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 5️⃣ Tech Instagram Influencer Analysis(https://github.com/srilalitha55/projects/tree/main/05-tech-instagram-influencer-analysis) 
+### 5️⃣ Tech Instagram Influencer Analysis
+(https://github.com/srilalitha55/projects/tree/main/05-tech-instagram-influencer-analysis) 
 
 - **Domain:** Social Media Analytics
 - **Function:** Marketing Analytics, Content Strategy   
@@ -61,7 +66,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 6️⃣ Shield Insurance Dashboard Analysis(https://github.com/srilalitha55/projects/tree/main/06-shield-insurance-dashboard-analysis)
+### 6️⃣ Shield Insurance Dashboard Analysis
+(https://github.com/srilalitha55/projects/tree/main/06-shield-insurance-dashboard-analysis)
 
 - **Domain:** Insurance, Business Intelligence
 - **Function:** Business Intelligence, Performance Monitoring 
