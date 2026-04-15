@@ -11,7 +11,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ### 1️⃣ AtliQ Mart Supply Chain Analysis(https://github.com/srilalitha55/projects/tree/main/01-atliq-mart-supply-chain-analysis)
 
-- **Domain:** FMCG / Supply Chain  
+- **Domain:** FMCG(Fast Moving Consumer Goods)
+- **Function:** Supply Chain, Strategy  
 - **Objective:** Improve delivery performance and service levels  
 - **Key Metrics:** OT%, IF%, OTIF, LIFR, VOFR  
 - **Outcome:** Identified delivery inefficiencies and recommended improvements to enhance customer satisfaction  
@@ -20,7 +21,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ### 2️⃣ AtliQ Grands Revenue Performance Analysis(https://github.com/srilalitha55/projects/tree/main/02-atliq-grands-revenue-performance-analysis)
 
-- **Domain:** Hospitality  
+- **Domain:** Hospitality
+- **Function:**  Revenue, Marketing
 - **Objective:** Analyze revenue decline and market share loss  
 - **Key Metrics:** Revenue, ADR, RevPAR, Occupancy %, Cancellation Rate  
 - **Outcome:** Suggested strategies to improve pricing, occupancy, and reduce revenue leakage  
@@ -29,7 +31,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ### 3️⃣ Mitron Bank Credit Card Strategy Analysis(https://github.com/srilalitha55/projects/tree/main/03-mitron-bank-credit-card-strategy-analysis)
 
-- **Domain:** Banking / FinTech  
+- **Domain:** Banking
+- **Function:** Strategy, Revenue 
 - **Objective:** Analyze customer spending behavior for credit card launch  
 - **Key Metrics:** Total Spend, Income Utilization %, Customer Segments  
 - **Outcome:** Identified high-value customer segments and recommended targeted credit card strategies  
@@ -38,7 +41,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ### 4️⃣ CodeX Energy Drink Consumer Behavior Analysis(https://github.com/srilalitha55/projects/tree/main/04-codex-energy-drink-consumer-behavior-analysis)
 
-- **Domain:** FMCG / Marketing  
+- **Domain:** Food & Beverages(F&B) 
+- **Function:** Marketing  
 - **Objective:** Understand consumer preferences and brand awareness  
 - **Key Metrics:** Awareness %, Trial Rate, Consumption Behavior  
 - **Outcome:** Provided marketing and product strategies to improve adoption and brand positioning  
