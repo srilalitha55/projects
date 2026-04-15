@@ -11,7 +11,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ### 1️⃣ AtliQ Mart Supply Chain Analysis(https://github.com/srilalitha55/projects/tree/main/01-atliq-mart-supply-chain-analysis)
 
-- **Domain:** FMCG(Fast Moving Consumer Goods)
+- **Domain:** FMCG(Fast - Moving Consumer Goods)
 - **Function:** Supply Chain, Strategy  
 - **Objective:** Improve delivery performance and service levels  
 - **Key Metrics:** OT%, IF%, OTIF, LIFR, VOFR  
