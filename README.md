@@ -45,7 +45,7 @@ Each project is built around a **real-world business problem** and follows a str
 ---
 
 ### 4️⃣ CodeX Energy Drink Consumer Insights
-(https://github.com/srilalitha55/projects/tree/main/04-codex-energy-drink-consumer-insighta)
+(https://github.com/srilalitha55/projects/tree/main/04-codex-energy-drink-consumer-insights)
 
 - **Domain:** Food & Beverages (F&B) 
 - **Function:** Marketing  
